@@ -71,7 +71,9 @@
 나쁜 습관 인상찌푸림을 teachable machine을 사용하여 노코딩모델링으로 찾아보자.
 
 1. cat과 dog을 구분할 수 있는 프로그램
-https://user-images.githubusercontent.com/123911778/261236691-7a97f6f8-be87-4e47-aa7f-defda0c4d31d.PNG
+![ex_screenshot](./https://user-images.githubusercontent.com/123911778/261236691-7a97f6f8-be87-4e47-aa7f-defda0c4d31d.PNG)https://user-images.githubusercontent.com/123911778/261236691-7a97f6f8-be87-4e47-aa7f-defda0c4d31d.PNG)
+[출처] 마크다운에서 이미지 넣기|작성자 천동이
+
 
 
 
