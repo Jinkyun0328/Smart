@@ -1,9 +1,9 @@
 # Smart
 ## 2023년 8월 18일
 ### 1교시 Java
-Java는 Write Once Run AnyWhre. WORA를 보장한다.
-어디에서 사용해도 정확하게 동작한다.
-JVM (Java Virtual Machine : 자바 가상 기계)에 의해 해석되고 실행됨.
+Java는 Write Once Run AnyWhre. WORA를 보장한다.  
+어디에서 사용해도 정확하게 동작한다.  
+JVM (Java Virtual Machine : 자바 가상 기계)에 의해 해석되고 실행됨.  
 
 
 
