@@ -6,7 +6,17 @@ Java는 Write Once Run AnyWhre. WORA를 보장한다.
 JVM (Java Virtual Machine : 자바 가상 기계)에 의해 해석되고 실행됨.  
 
 ![image1](https://user-images.githubusercontent.com/123911778/261881785-335bd669-0bc6-4e8b-9481-7c709a41b9f0.png)
+![image2](https://user-images.githubusercontent.com/123911778/261881777-44af0bb9-f755-4041-9287-ccf2825f8f0f.png)
+![image3](https://user-images.githubusercontent.com/123911778/261881781-07eb48c5-dd58-4144-8d01-3fd597613b2f.png)
+![image4](https://user-images.githubusercontent.com/123911778/261881780-4922703d-b3d1-49e6-a911-819ac2ba35aa.png)
 
+
+### 5교시 ~ 8교시
+#### 데이터베이스
+오라클에서 데이터베이스를 설치
+
+![image5](https://user-images.githubusercontent.com/123911778/261881782-5f9bcfa8-cc9e-4cc5-9ef4-a6f3acbb2bc3.png)
+![image6](https://user-images.githubusercontent.com/123911778/261881783-cbec8041-9b25-4c93-9e01-264f6173a9fc.png)
 
 
 
