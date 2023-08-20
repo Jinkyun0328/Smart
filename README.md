@@ -5,7 +5,7 @@ Java는 Write Once Run AnyWhre. WORA를 보장한다.
 어디에서 사용해도 정확하게 동작한다.  
 JVM (Java Virtual Machine : 자바 가상 기계)에 의해 해석되고 실행됨.  
 
-
+![image1](https://user-images.githubusercontent.com/123911778/261881785-335bd669-0bc6-4e8b-9481-7c709a41b9f0.png)
 
 
 
